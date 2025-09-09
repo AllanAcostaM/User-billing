@@ -29,6 +29,7 @@ const eslintConfig = [
       'next-env.d.ts',
       '.turbo/**',
       '.vercel/**',
+      'public',
     ],
     languageOptions: {
       parserOptions: {
